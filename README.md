@@ -5,20 +5,20 @@
 
 # Hackerank Problems
 
-| No.  | Title            |                                                                                                                  Language                                                                                                                   |                                              Solution                                              | Diffculty |
-| :--: | :--------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :-------: |
+| No.  | Title            |                                                                                                                  Language                                                                                                                   |                                                    Solution                                                    | Diffculty |
+| :--: | :--------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------: | :-------: |
 | 0001 | Counting Valleys | <img alt="JavaScript Language" src="https://img.shields.io/badge/javascript-lightgrey"/> <img alt="Python Language" src="https://img.shields.io/badge/-python-lightgrey"/> <img alt="Go" src="https://img.shields.io/badge/-go-lightgrey"/> | [Go to Solution](https://github.com/arausly/algo-rhymes/tree/master/hackerank/Easy/counting_valleys/solutions) |   Easy    |
 | 0002 | Jumping Clouds   |                                                   <img alt="Php" src="https://img.shields.io/badge/-php-lightgrey"/> <img alt="Golang" src="https://img.shields.io/badge/-go-lightgrey"/>                                                   |  [Go to Solution](https://github.com/arausly/algo-rhymes/tree/master/hackerank/Easy/jumping_clouds/solutions)  |   Easy    |
 | 0003 | Repeated Strings |                                                                                    <img alt="Golang" src="https://img.shields.io/badge/-go-lightgrey"/>                                                                                     | [Go to Solution](https://github.com/arausly/algo-rhymes/tree/master/hackerank/Easy/jumping_cloudss/solutions)  |   Easy    |
 | 0004 | Staircase        |                                                                          <img alt="JavaScript Language" src="https://img.shields.io/badge/javascript-lightgrey"/>                                                                           |    [Go to Solution](https://github.com/arausly/algo-rhymes/tree/master/hackerank/Easy/stairecase/solutions)    |   Easy    |
-|      |                  |                                                                                                                                                                                                                                             |                                                                                                    |
+|      |                  |                                                                                                                                                                                                                                             |                                                                                                                |
 
 # LeetCode Solutions
 
-| No.  | Title    |                                    Language                                     |                                    Solution                                     | Diffculty |
-| :--: | :------- | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: | :-------: |
+| No.  | Title    |                                    Language                                     |                                          Solution                                           | Diffculty |
+| :--: | :------- | :-----------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------: | :-------: |
 | 0001 | Two Sums | <img alt="JavaScript" src="https://img.shields.io/badge/javascript-lightgrey"/> | [Go to Solution](https://github.com/arausly/algo-rhymes/tree/master/leet-code/Easy/two_sum) |   Easy    |
-|      |          |                                                                                 |                                                                                 |           |
+|      |          |                                                                                 |                                                                                             |           |
 
 # License
 
@@ -26,7 +26,7 @@ This project is licensed under the MIT License - see the <a href="./LICENSE.md">
 
 # Contributions
 
-Contributions are very welcome. Read the [contributing guide](https://github.com/arausly/algo-rhymes/blob/main/CONTRIBUTING.md).
+Contributions are very welcome. Read the <a href="./CONTRIBUTING.md"> contributing guide
 
 ## Contributors
 
